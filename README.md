@@ -1,4 +1,12 @@
-  <p align="center">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <p align="center">
       <img
         src="https://capsule-render.vercel.app/api?type=waving&color=0:007aff,100:00ff00&height=300&section=header&text=Heyo%20Im Dmart&fontSize=90"
         alt="Colorful wave-shaped header banner displaying the text Heyo render in large white letters against a gradient background with smooth undulating waves at the bottom"
@@ -10,3 +18,5 @@
         src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"
       />
     </a>
+  </body>
+</html>

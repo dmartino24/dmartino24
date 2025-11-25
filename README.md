@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007aff,100:00ff00&height=300&section=header&text=Heyo%20Im%20Dmart&fontSize=90" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007aff,100:00ff00&height=300&section=header&text=Heyo%20From%20FactManiaMedia&fontSize=60" alt="Header"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://www.tiktok.com/@factmaniamedia">
     <img height="50" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/YourFacebook">
+  <a href="https://www.facebook.com/profile.php?id=61560585373623">
     <img height="50" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>

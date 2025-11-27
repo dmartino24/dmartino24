@@ -8,9 +8,9 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Creator-007aff?style=for-the-badge&logoColor=white" alt="Creator"/>
-  <img src="https://img.shields.io/badge/Storyteller-00ff00?style=for-the-badge&logoColor=white" alt="Storyteller"/>
-  <img src="https://img.shields.io/badge/Innovator-ff9933?style=for-the-badge&logoColor=white" alt="Innovator"/>
+  <a href="https://www.youtube.com/channel/UC5vgGy7VyBo_ojpYz57Sz-g"><img src="https://img.shields.io/badge/Creator-007aff?style=for-the-badge&logoColor=white" alt="Creator"/></a>
+  <a href="https://www.youtube.com/channel/UC5vgGy7VyBo_ojpYz57Sz-g"><img src="https://img.shields.io/badge/Storyteller-00ff00?style=for-the-badge&logoColor=white" alt="Storyteller"/></a>
+  <a href="https://www.youtube.com/channel/UC5vgGy7VyBo_ojpYz57Sz-g"><img src="https://img.shields.io/badge/Innovator-ff9933?style=for-the-badge&logoColor=white" alt="Innovator"/></a>
   
 </div>
 
@@ -25,6 +25,7 @@
 
 <br/>
 <hr style="border: none; border-top: 3px solid #ff9933; margin: 20px 0;"/>
+
 <p align="center">
 <a href="https://linktr.ee/factmaniamedia">
   <img height="50" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>

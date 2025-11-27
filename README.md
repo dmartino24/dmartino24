@@ -2,9 +2,34 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007aff,100:00ff00&height=300&section=header&text=Heyo%20From%20Fact%20Mania%20Media&fontSize=60&fontAlignY=38&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Welcome%20to%20my%20profile!&descAlignY=51&descAlign=50&fontName=BigPartyO2Green" alt="Header"/>
 </p>
 <hr style="border: none; border-top: 3px solid #ff9933; margin: 20px 0;"/>
+<br/>
+
+## 🎬 About Me
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Creator-007aff?style=for-the-badge&logoColor=white" alt="Creator"/>
+  <img src="https://img.shields.io/badge/Storyteller-00ff00?style=for-the-badge&logoColor=white" alt="Storyteller"/>
+  <img src="https://img.shields.io/badge/Innovator-ff9933?style=for-the-badge&logoColor=white" alt="Innovator"/>
+  
+</div>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Follow-Here-ff9933?style=for-the-badge&labelColor=000033" alt="Follow Here"/>
+  <b>🎥 Videos</b> • <b>🎮 Video Games</b> • <b>📚 Books</b>
 </p>
+
+<p align="center">
+  I create content across different platforms and mediums.<br/>
+  Making videos, developing games, and writing books mainly about trivia and educational.
+</p>
+
+<br/>
+<hr style="border: none; border-top: 3px solid #ff9933; margin: 20px 0;"/>
+<p align="center">
+<a href="https://linktr.ee/factmaniamedia">
+  <img height="50" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+</p>
+
 </p>
 <p align="center">
   <a href="https://www.instagram.com/factmaniamedia/">
@@ -24,6 +49,19 @@
   </a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmartino24&background=000033&border=007aff&ring=ff9933&fire=ff9933&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff00&sideLabels=007aff&dates=007aff" alt="GitHub Streak"/>
-</p> -->
+<br/>
+<hr style="border: none; border-top: 3px solid #ff9933; margin: 20px 0;"/>
+
+## 📧 Contact
+
+<p align="center">
+  <a href="mailto:factmaniamedia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-007aff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  Feel free to reach out for collaborations or inquiries!
+</p>
+
+<br/>

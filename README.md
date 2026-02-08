@@ -15,12 +15,12 @@
 </div>
 
 <p align="center">
-  <b>🎥 Videos</b> • <b>🎮 Video Games</b> • <b>📚 Books</b>
+  <b>🎥 Videos</b> • <b>🎮 Video Games</b> 
 </p>
 
 <p align="center">
   I create content across different platforms and mediums.<br/>
-  Making videos, developing games, and writing books mainly about trivia and educational.
+  Making videos, and developing games.
 </p>
 
 <br/>

@@ -9,8 +9,6 @@
 <div align="center">
   
   <a href="https://www.youtube.com/channel/UC5vgGy7VyBo_ojpYz57Sz-g"><img src="https://img.shields.io/badge/Creator-007aff?style=for-the-badge&logoColor=white" alt="Creator"/></a>
-  <a href="https://www.youtube.com/channel/UC5vgGy7VyBo_ojpYz57Sz-g"><img src="https://img.shields.io/badge/Storyteller-00ff00?style=for-the-badge&logoColor=white" alt="Storyteller"/></a>
-  <a href="https://www.youtube.com/channel/UC5vgGy7VyBo_ojpYz57Sz-g"><img src="https://img.shields.io/badge/Innovator-ff9933?style=for-the-badge&logoColor=white" alt="Innovator"/></a>
   
 </div>
 
